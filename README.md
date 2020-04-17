@@ -1,7 +1,6 @@
 # terraformingmarsboard
 user board of board game terraforming mars
 
-<form>
   <label for="cars">Choose a car:</label>
   <select id="cars" name="cars">
     <option value="volvo">Volvo</option>
@@ -10,4 +9,3 @@ user board of board game terraforming mars
     <option value="audi">Audi</option>
   </select>
   <input type="submit">
-</form>
